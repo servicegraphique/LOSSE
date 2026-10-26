@@ -6,7 +6,7 @@ Espace de travail — plaquette commerciale **HelloLead**, déclinaison sectorie
 
 | Dossier | Contenu |
 |---|---|
-| **`00-reponse-chef/`** | La réponse prête à envoyer à Pierre (mail + points à valider + recule critique sur la plaquette d'origine) |
+| **`00-reponse-chef/`** | `SOLUTION-RETOUR-CHEF.md` — **le document à retourner à Pierre** (mail prêt à envoyer + preuves des contraintes + arbitrages) ; `reponse-pierre.md` — version longue avec recule critique de la plaquette d'origine |
 | **`01-plaquette/`** | La plaquette livrée (PDF 9 pages + extrait pages 3-7), le copy deck, les visuels et le générateur |
 | **`02-memoire/`** | `MEMOIRE.md` — fiche de reprise du projet : contexte, décisions, arbitrages en attente, mode d'emploi pour les prochains secteurs |
 

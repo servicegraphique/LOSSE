@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Cache de rendu des images (regénéré par build_plaquette.py)
+01-plaquette/build/.imgcache/
+
+# Aperçus de contrôle (regénérés)
+01-plaquette/out/_p*.png
+01-plaquette/out/_p*.pdf
+01-plaquette/out/_crop*.png

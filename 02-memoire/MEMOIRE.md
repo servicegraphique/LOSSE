@@ -28,6 +28,7 @@
 | Copy deck (tout le texte, relisible) | `01-plaquette/COPY-DECK.md` | ✅ |
 | Générateur (code source) | `01-plaquette/build/` | ✅ |
 | Réponse prête à envoyer à Pierre | `00-reponse-chef/reponse-pierre.md` | ✅ |
+| **Solution à retourner au chef (document unique)** | `00-reponse-chef/SOLUTION-RETOUR-CHEF.md` | ✅ |
 | PDF source d'origine (référence) | `01-plaquette/assets/source/Plaquette_HelloLead_source.pdf` | ✅ |
 
 ## 3. Décisions prises (et pourquoi)
@@ -97,3 +98,4 @@ Structure du code :
 | Date | Événement |
 |---|---|
 | 2026-10-26 | Mail de Pierre : demande de plaquette sectorisée Assurance (périmètre pages 3, 5, 6, 7). Livraison de la V1 + copy deck + générateur. |
+| 2026-10-26 | Cadrage confirmé par Helvin : **pas de refonte du thème/design société, pas d'appli ni d'interface inventée**. Retour chef consolidé dans `00-reponse-chef/SOLUTION-RETOUR-CHEF.md` (mail prêt à envoyer + preuves des contraintes + arbitrages). PR #1 fusionnée sur `main`. |
